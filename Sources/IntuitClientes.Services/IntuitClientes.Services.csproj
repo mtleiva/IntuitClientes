@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\IntuitClientes.Domain\IntuitClientes.Domain.csproj" />
+    <ProjectReference Include="..\IntuitClientes.Repositories\IntuitClientes.Repositories.csproj" />
   </ItemGroup>
 
 </Project>
