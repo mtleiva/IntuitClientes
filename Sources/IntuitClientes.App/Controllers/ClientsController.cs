@@ -1,19 +1,23 @@
+using Hasar.MSCoelsa.App.Controllers;
 using IntuitClientes.CrossCutting.Dtos;
+using IntuitClientes.CrossCutting.Logging;
+using IntuitClientes.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
-namespace IntuitClientes.App.Controllers
+namespace IntuitClients.App.Controllers
 {
     [ApiController]
-    [Route("api/clients")]
-    public class ClientsController : ControllerBase
+    [Route("api/[clients]")]
+    public class ClientsController : BaseController
     {
 
 
-        private readonly ILogger<ClientsController> _logger;
+        //private readonly ILogger<ClientsController> _logger;
+        private readonly IClientService _clientService;
 
-        public ClientsController(ILogger<ClientsController> logger)
+        public ClientsController( IClientService clientService, ILog logger) : base(logger)
         {
-            _logger = logger;
+            _clientService = clientService;
         }
 
         [HttpGet]
