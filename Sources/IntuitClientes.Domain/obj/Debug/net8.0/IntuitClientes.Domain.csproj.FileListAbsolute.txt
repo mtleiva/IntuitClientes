@@ -9,3 +9,7 @@ C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Domain\obj\D
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Domain\obj\Debug\net8.0\refint\IntuitClientes.Domain.dll
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Domain\obj\Debug\net8.0\IntuitClientes.Domain.pdb
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Domain\obj\Debug\net8.0\ref\IntuitClientes.Domain.dll
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Domain\bin\Debug\net8.0\IntuitClientes.Domain.runtimeconfig.json
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Domain\obj\Debug\net8.0\IntuitClientes.Domain.csproj.AssemblyReference.cache
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Domain\obj\Debug\net8.0\IntuitClientes.Domain.sourcelink.json
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Domain\obj\Debug\net8.0\IntuitClientes.Domain.genruntimeconfig.cache
