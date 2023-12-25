@@ -1,10 +1,15 @@
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Repositories\bin\Debug\net8.0\IntuitClientes.Repositories.deps.json
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Repositories\bin\Debug\net8.0\IntuitClientes.Repositories.dll
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Repositories\bin\Debug\net8.0\IntuitClientes.Repositories.pdb
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Repositories\bin\Debug\net8.0\IntuitClientes.Domain.dll
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Repositories\bin\Debug\net8.0\IntuitClientes.Domain.pdb
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Repositories\obj\Debug\net8.0\IntuitClientes.Repositories.csproj.AssemblyReference.cache
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Repositories\obj\Debug\net8.0\IntuitClientes.Repositories.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Repositories\obj\Debug\net8.0\IntuitClientes.Repositories.AssemblyInfoInputs.cache
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Repositories\obj\Debug\net8.0\IntuitClientes.Repositories.AssemblyInfo.cs
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Repositories\obj\Debug\net8.0\IntuitClientes.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Repositories\obj\Debug\net8.0\IntuitClientes.Repositories.sourcelink.json
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Repositories\obj\Debug\net8.0\IntuitClientes.Repositories.csproj.CopyComplete
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Repositories\obj\Debug\net8.0\IntuitClientes.Repositories.dll
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Repositories\obj\Debug\net8.0\refint\IntuitClientes.Repositories.dll
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Repositories\obj\Debug\net8.0\IntuitClientes.Repositories.pdb
