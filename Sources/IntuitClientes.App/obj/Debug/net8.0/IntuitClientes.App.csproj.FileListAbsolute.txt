@@ -5,3 +5,4 @@ C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\obj\Debu
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\obj\Debug\net8.0\IntuitClientes.App.csproj.CoreCompileInputs.cache
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\obj\Debug\net8.0\IntuitClientes.App.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\obj\Debug\net8.0\IntuitClientes.App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\obj\Debug\net8.0\IntuitClientes.App.sourcelink.json

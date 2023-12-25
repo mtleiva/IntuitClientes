@@ -1,6 +1,6 @@
 @IntuitClientes.App_HostAddress = http://localhost:5016
 
-GET {{IntuitClientes.App_HostAddress}}/weatherforecast/
+GET {{IntuitClientes.App_HostAddress}}/clients/
 Accept: application/json
 
 ###

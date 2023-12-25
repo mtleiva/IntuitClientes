@@ -18,7 +18,7 @@ namespace IntuitClientes.Domain.Context
         {
             if (!optionsBuilder.IsConfigured)
             {
-                var connectionString = "Server=LOCALHOST\\SQLEXPRESS;Database=IntuitClients;TrustServerCertificate=True;Trusted_Connection=True;MultipleActiveResultSets=true";
+                var connectionString = "Data Source=ULTRON;Integrated Security=True;Trust Server Certificate=True";
                 optionsBuilder.UseSqlServer(connectionString);
             }
         }
