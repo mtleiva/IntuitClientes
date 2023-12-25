@@ -1,0 +1,11 @@
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.CrossCutting\bin\Debug\net8.0\IntuitClientes.CrossCutting.deps.json
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.CrossCutting\bin\Debug\net8.0\IntuitClientes.CrossCutting.dll
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.CrossCutting\bin\Debug\net8.0\IntuitClientes.CrossCutting.pdb
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.CrossCutting\obj\Debug\net8.0\IntuitClientes.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.CrossCutting\obj\Debug\net8.0\IntuitClientes.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.CrossCutting\obj\Debug\net8.0\IntuitClientes.CrossCutting.AssemblyInfo.cs
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.CrossCutting\obj\Debug\net8.0\IntuitClientes.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.CrossCutting\obj\Debug\net8.0\IntuitClientes.CrossCutting.dll
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.CrossCutting\obj\Debug\net8.0\refint\IntuitClientes.CrossCutting.dll
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.CrossCutting\obj\Debug\net8.0\IntuitClientes.CrossCutting.pdb
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.CrossCutting\obj\Debug\net8.0\ref\IntuitClientes.CrossCutting.dll

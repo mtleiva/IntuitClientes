@@ -1,0 +1,7 @@
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\obj\Debug\net8.0\IntuitClientes.App.csproj.AssemblyReference.cache
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\obj\Debug\net8.0\IntuitClientes.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\obj\Debug\net8.0\IntuitClientes.App.AssemblyInfoInputs.cache
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\obj\Debug\net8.0\IntuitClientes.App.AssemblyInfo.cs
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\obj\Debug\net8.0\IntuitClientes.App.csproj.CoreCompileInputs.cache
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\obj\Debug\net8.0\IntuitClientes.App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\obj\Debug\net8.0\IntuitClientes.App.MvcApplicationPartsAssemblyInfo.cache
