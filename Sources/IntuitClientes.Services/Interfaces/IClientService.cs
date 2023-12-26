@@ -10,6 +10,10 @@ namespace IntuitClientes.Services.Interfaces
 {
     public interface IClientService: IService<Client> 
     {
-       Task<ClientDto> GetClient(int id);
+        Task<List<ClientDto>> GetAllClients();
+        Task<ClientDto> GetClient(int id);
+        Task<ClientDto> InsertClient(InsertClientDto client);
+        Task<List<ClientDto>> SearchClientsByName(string name);
+        Task<ClientDto> UpdateClient(int id, ClientDto client);
     }
 }

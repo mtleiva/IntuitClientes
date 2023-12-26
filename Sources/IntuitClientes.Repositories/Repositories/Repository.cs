@@ -16,7 +16,7 @@ namespace IntuitClientes.Repositories.Repositories
             this.dbSet = _db.Set<T>();
         }
 
-        private async Task<T> GetByIdAsync(int id)
+        public async Task<T> GetByIdAsync(int id)
         {
             T? entity = await dbSet.FindAsync(id);
             if (entity == null) throw new Exception("Error GetByIdAsync");

@@ -21,9 +21,18 @@ namespace IntuitClients.App.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetAll()
+        public async Task<ActionResult<BaseResponseDto<List<ClientDto>>>> GetAll()
         {
-            throw new NotImplementedException("Update method not implemented");
+            try
+            {
+                // Implementa la lógica para obtener todos los clientes
+                List<ClientDto> clients = await _clientService.GetAllClients();
+                return BuildOk(clients);
+            }
+            catch (Exception ex)
+            {
+                return BuildError<List<ClientDto>>(ex);
+            }
         }
 
         [HttpGet("{id}")]
@@ -46,21 +55,47 @@ namespace IntuitClients.App.Controllers
         }
 
         [HttpPost("search")]
-        public IActionResult Search([FromBody] string name)
+        public async Task<ActionResult<BaseResponseDto<List<ClientDto>>>> Search([FromBody] string name)
         {
-            throw new NotImplementedException("Update method not implemented");
+            try
+            {
+                // Implementa la lógica para buscar clientes por nombre
+                List<ClientDto> clients = await _clientService.SearchClientsByName(name);
+                return BuildOk(clients);
+            }
+            catch (Exception ex)
+            {
+                return BuildError<List<ClientDto>>(ex);
+            }
         }
-
         [HttpPost]
-        public IActionResult Insert([FromBody] ClientDto client)
+        public async Task<ActionResult<BaseResponseDto<ClientDto>>> Insert([FromBody] InsertClientDto client)
         {
-            throw new NotImplementedException("Update method not implemented");
+            try
+            {
+                // Implementa la lógica para insertar un nuevo cliente
+                ClientDto insertedClient = await _clientService.InsertClient(client);
+                return BuildOk(insertedClient);
+            }
+            catch (Exception ex)
+            {
+                return BuildError<ClientDto>(ex);
+            }
         }
 
         [HttpPut("{id}")]
-        public IActionResult Update(int id, [FromBody] ClientDto client)
+        public async Task<ActionResult<BaseResponseDto<ClientDto>>> Update(int id, [FromBody] ClientDto client)
         {
-            throw new NotImplementedException("Update method not implemented");
+            try
+            {
+                // Implementa la lógica para actualizar un cliente
+                ClientDto updatedClient = await _clientService.UpdateClient(id, client);
+                return BuildOk(updatedClient);
+            }
+            catch (Exception ex)
+            {
+                return BuildError<ClientDto>(ex);
+            }
         }
     }
 }

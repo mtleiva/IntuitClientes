@@ -1,6 +1,10 @@
-C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\bin\Debug\net8.0\IntuitClientes.App.exe
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\bin\Debug\net8.0\appsettings.json
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\bin\Debug\net8.0\IntuitClientes.App.exe
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\bin\Debug\net8.0\IntuitClientes.App.deps.json
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\bin\Debug\net8.0\IntuitClientes.App.runtimeconfig.json
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\bin\Debug\net8.0\IntuitClientes.App.dll
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\bin\Debug\net8.0\IntuitClientes.App.pdb
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\bin\Debug\net8.0\Azure.Core.dll
@@ -142,9 +146,5 @@ C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\obj\Debu
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\obj\Debug\net8.0\IntuitClientes.App.dll
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\obj\Debug\net8.0\refint\IntuitClientes.App.dll
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\obj\Debug\net8.0\IntuitClientes.App.pdb
-C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\bin\Debug\net8.0\IntuitClientes.App.deps.json
-C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\bin\Debug\net8.0\IntuitClientes.App.runtimeconfig.json
-C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\bin\Debug\net8.0\IntuitClientes.App.dll
-C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\bin\Debug\net8.0\IntuitClientes.App.pdb
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\obj\Debug\net8.0\IntuitClientes.App.genruntimeconfig.cache
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.App\obj\Debug\net8.0\ref\IntuitClientes.App.dll
