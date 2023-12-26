@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using IntuitClientes.CrossCutting.Dtos;
 using IntuitClientes.Domain.Models;
 using IntuitClientes.Repositories.Interfaces;
 using IntuitClientes.Services.Interfaces;
@@ -18,6 +19,16 @@ namespace IntuitClientes.Services.Services
         {
             _clientRepository = clientRepository;
             _mapper = mapper;
+        }
+
+        public async Task<ClientDto> GetClient(int id)
+        {
+            try
+            {
+                Client client = await _clientRepository.GetClientById(id);
+                ClientDto clientDto = _mapper.Map<ClientDto>(client);
+                return clientDto;
+            }catch (Exception ex) { throw ex; }
         }
     }
 }

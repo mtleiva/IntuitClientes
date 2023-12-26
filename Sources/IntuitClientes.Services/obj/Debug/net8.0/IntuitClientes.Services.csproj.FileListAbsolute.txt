@@ -1,8 +1,10 @@
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Services\bin\Debug\net8.0\IntuitClientes.Services.deps.json
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Services\bin\Debug\net8.0\IntuitClientes.Services.dll
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Services\bin\Debug\net8.0\IntuitClientes.Services.pdb
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Services\bin\Debug\net8.0\IntuitClientes.CrossCutting.dll
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Services\bin\Debug\net8.0\IntuitClientes.Domain.dll
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Services\bin\Debug\net8.0\IntuitClientes.Repositories.dll
+C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Services\bin\Debug\net8.0\IntuitClientes.CrossCutting.pdb
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Services\bin\Debug\net8.0\IntuitClientes.Domain.pdb
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Services\bin\Debug\net8.0\IntuitClientes.Repositories.pdb
 C:\Users\Recursiva\@Proyectos\IntuitClientes\Sources\IntuitClientes.Services\obj\Debug\net8.0\IntuitClientes.Services.csproj.AssemblyReference.cache

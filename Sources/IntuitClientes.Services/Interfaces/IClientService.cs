@@ -1,4 +1,5 @@
-﻿using IntuitClientes.Domain.Models;
+﻿using IntuitClientes.CrossCutting.Dtos;
+using IntuitClientes.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,5 +10,6 @@ namespace IntuitClientes.Services.Interfaces
 {
     public interface IClientService: IService<Client> 
     {
+       Task<ClientDto> GetClient(int id);
     }
 }

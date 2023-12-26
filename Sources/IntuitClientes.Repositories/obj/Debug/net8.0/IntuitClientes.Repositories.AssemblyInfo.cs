@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntuitClientes.Repositories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+585a1b3a5675ab12e7e14429f677f6bc8af0adbb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a284cde55ccc2fc961bba0dbddadb7292fc2a9eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntuitClientes.Repositories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntuitClientes.Repositories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

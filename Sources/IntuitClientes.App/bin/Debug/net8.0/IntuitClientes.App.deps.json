@@ -981,6 +981,7 @@
       "IntuitClientes.Services/1.0.0": {
         "dependencies": {
           "AutoMapper": "12.0.1",
+          "IntuitClientes.CrossCutting": "1.0.0",
           "IntuitClientes.Domain": "1.0.0",
           "IntuitClientes.Repositories": "1.0.0"
         },

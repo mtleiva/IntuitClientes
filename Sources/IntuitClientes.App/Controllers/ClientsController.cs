@@ -3,16 +3,16 @@ using IntuitClientes.CrossCutting.Dtos;
 using IntuitClientes.CrossCutting.Logging;
 using IntuitClientes.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using System.Net;
 
 namespace IntuitClients.App.Controllers
 {
     [ApiController]
-    [Route("api/[clients]")]
+    [Route("api/clients")]
     public class ClientsController : BaseController
     {
 
 
-        //private readonly ILogger<ClientsController> _logger;
         private readonly IClientService _clientService;
 
         public ClientsController( IClientService clientService, ILog logger) : base(logger)
@@ -27,9 +27,22 @@ namespace IntuitClients.App.Controllers
         }
 
         [HttpGet("{id}")]
-        public IActionResult Get(int id)
+        public async Task<ActionResult<BaseResponseDto<ClientDto>>> Get(int id)
         {
-            throw new NotImplementedException("Update method not implemented");
+
+            try
+            {
+                ClientDto clientDto = await _clientService.GetClient(id);
+
+                return BuildOk(clientDto);
+            }
+
+            catch (Exception ex)
+            {
+                return BuildError<ClientDto>(ex);
+            }
+
+
         }
 
         [HttpPost("search")]

@@ -9,5 +9,7 @@ namespace IntuitClientes.Repositories.Interfaces
 {
     public interface IClientRepository: IRepository<Client>
     {
+        Task<Client> GetClientById(int id);
+
     }
 }

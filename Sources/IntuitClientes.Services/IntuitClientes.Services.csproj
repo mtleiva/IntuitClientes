@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\IntuitClientes.CrossCutting\IntuitClientes.CrossCutting.csproj" />
     <ProjectReference Include="..\IntuitClientes.Domain\IntuitClientes.Domain.csproj" />
     <ProjectReference Include="..\IntuitClientes.Repositories\IntuitClientes.Repositories.csproj" />
   </ItemGroup>
