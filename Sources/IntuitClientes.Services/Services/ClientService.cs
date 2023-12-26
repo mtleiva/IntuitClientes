@@ -72,7 +72,7 @@ namespace IntuitClientes.Services.Services
                 throw ex;
             }
         }
-        public async Task<ClientDto> UpdateClient(int id, ClientDto client)
+        public async Task<ClientDto> UpdateClient(int id, InsertClientDto client)
         {
             try
             {

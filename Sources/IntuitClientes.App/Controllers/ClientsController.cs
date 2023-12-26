@@ -84,7 +84,7 @@ namespace IntuitClients.App.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<ActionResult<BaseResponseDto<ClientDto>>> Update(int id, [FromBody] ClientDto client)
+        public async Task<ActionResult<BaseResponseDto<ClientDto>>> Update(int id, [FromBody] InsertClientDto client)
         {
             try
             {

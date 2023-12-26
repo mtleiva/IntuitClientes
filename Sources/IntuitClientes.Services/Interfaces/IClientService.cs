@@ -14,6 +14,6 @@ namespace IntuitClientes.Services.Interfaces
         Task<ClientDto> GetClient(int id);
         Task<ClientDto> InsertClient(InsertClientDto client);
         Task<List<ClientDto>> SearchClientsByName(string name);
-        Task<ClientDto> UpdateClient(int id, ClientDto client);
+        Task<ClientDto> UpdateClient(int id, InsertClientDto client);
     }
 }
